@@ -1,0 +1,14 @@
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\bin\Debug\net8.0\OOPS IN C#.exe
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\bin\Debug\net8.0\OOPS IN C#.deps.json
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\bin\Debug\net8.0\OOPS IN C#.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\bin\Debug\net8.0\OOPS IN C#.dll
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\bin\Debug\net8.0\OOPS IN C#.pdb
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\OOPS IN C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\OOPS IN C#.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\OOPS IN C#.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\OOPS IN C#.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\OOPS IN C#.dll
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\refint\OOPS IN C#.dll
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\OOPS IN C#.pdb
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\OOPS IN C#.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\OOPS IN C#\obj\Debug\net8.0\ref\OOPS IN C#.dll
