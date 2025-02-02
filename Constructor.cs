@@ -25,16 +25,16 @@
 
 //2.parameter constructor
 
-class A
-{
+// class A
+// {
     
-    A(int num)
-    {
-       Console.Write(num);
-    }
-    static void Main()
-    {
-        A r = new A(50);
+//     A(int num)
+//     {
+//        Console.Write(num);
+//     }
+//     static void Main()
+//     {
+//         A r = new A(50);
          
-    }
-}
+//     }
+// }
